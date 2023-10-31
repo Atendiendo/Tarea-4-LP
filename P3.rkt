@@ -39,5 +39,3 @@
         (if (not (null? analisis))
             (cons analisis resto)
             resto))))
-
-(armar_lista '((5 (cebolla cebolla)) (3 (tomate tomate tomate)) (2 (ajo)) (5(gato gato gato)) (10 (perro perro)) (0 (ola))))
